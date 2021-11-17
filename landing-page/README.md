@@ -1,8 +1,12 @@
 # Landing Page Project
 
-# Project description: This project is for adding a navbar with a list of clickable items for navigating through the page using the DOM. A multi-section landing page with a navigation menu added dynamically using the DOM.
+## Project description
 
-## Usage: This project including a combined HTML, CSS, and JavaScript usage for creating a dynamic landing page with good performance. After creating this project, you should be able to navigate through the page's sections by clicking on the navbar items dynamically.
+This project is for adding a navbar with a list of clickable items for navigating through the page using the DOM. A multi-section landing page with a navigation menu added dynamically using the DOM.
+
+## Usage
+
+This project including a combined HTML, CSS, and JavaScript usage for creating a dynamic landing page with good performance. After creating this project, you should be able to navigate through the page's sections by clicking on the navbar items dynamically.
 
 ## Table of Contents
 
